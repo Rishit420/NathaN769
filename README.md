@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NathaN769
-- 👀 I’m interested in discord
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me rchoudhary0253@gmail.com
+- 👋 Hi, I’m @Rishit420
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing for now
+- 📫 How to reach me? : rchoudhary0253@gmail.com
 
 <!---
 NathaN769/NathaN769 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
